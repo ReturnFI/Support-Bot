@@ -16,7 +16,7 @@ Add these variables to your Worker:
 | `ADMIN_ID` | Your Telegram user ID (admin) |
 | `RATE_LIMIT_KV` | The KV namespace binding |
 | `SECRET_TOKEN` | A secret token for webhook security |
-| `BOT_USER_LANGUAGE` | Language code ('EN' or 'FA') |
+| `BOT_USER_LANGUAGE` | Language code (EN or FA) |
 
 ### 🌐 Setup Webhook
 Set the webhook URL to your worker URL:
