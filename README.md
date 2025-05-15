@@ -1,3 +1,6 @@
+[![Language](https://img.shields.io/badge/Language-English-009688?logo=google-translate&logoColor=white)](README-EN.md)  
+
+
 <div dir="rtl" markdown="1">
 
 
