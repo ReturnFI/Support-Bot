@@ -27,7 +27,7 @@
 | آی‌دی کاربر تلگرام شما (ادمین) | `ADMIN_ID` |
 | اتصال فضای ذخیره‌سازی KV | `RATE_LIMIT_KV` |
 | توکن مخفی برای امنیت Webhook | `SECRET_TOKEN` |
-| کد زبان ('EN' یا 'FA') | `BOT_USER_LANGUAGE` |
+| کد زبان (EN یا FA) | `BOT_USER_LANGUAGE` |
 
 </div>
 
